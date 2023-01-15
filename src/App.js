@@ -25,7 +25,7 @@ const App = () => {
 
 
 
-    <div>
+    <div class="background bg-blur">
       
       
       <p class="websitetitle">Better Speech</p>
